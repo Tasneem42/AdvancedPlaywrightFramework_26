@@ -1,0 +1,6 @@
+{
+  "runId": "20261021_193552",
+  "tests": {
+    "chromium › login.spec.ts › POM with Login Page Simple › Login with valid credns": "passed"
+  }
+}

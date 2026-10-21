@@ -1,0 +1,14 @@
+{
+  "runId": "20261021_193322",
+  "tests": {
+    "firefox › example.spec.ts › has title": "passed",
+    "chromium › example.spec.ts › has title": "passed",
+    "chromium › example.spec.ts › get started link": "passed",
+    "chromium › login.spec.ts › POM with Login Page Simple › Login with valid credns": "passed",
+    "webkit › example.spec.ts › has title": "passed",
+    "firefox › example.spec.ts › get started link": "passed",
+    "webkit › example.spec.ts › get started link": "passed",
+    "webkit › login.spec.ts › POM with Login Page Simple › Login with valid credns": "passed",
+    "firefox › login.spec.ts › POM with Login Page Simple › Login with valid credns": "passed"
+  }
+}

@@ -6,7 +6,10 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "skipLibCheck": true,
-    "types": ["node"]
+    "types": ["node"],
+    "paths": {
+      "@utils/*": ["./src/utils/*"]
+    }
   },
   "include": ["src/**/*.ts", "playwright.config.ts"]
 }

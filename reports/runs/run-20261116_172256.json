@@ -1,0 +1,6 @@
+{
+  "runId": "20261116_172256",
+  "tests": {
+    "chromium › apiTests\\01_restfullbooker_raw\\02_post_operation.spec.ts › TC#1-verify the create booking is working fine ": "passed"
+  }
+}

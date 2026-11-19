@@ -1,0 +1,8 @@
+{
+  "runId": "20261117_221401",
+  "tests": {
+    "chromium › apiTests\\01_restfullbooker_raw\\05_crud.spec.ts › Restfull booker crud Api › TC#1 @p0-create token": "passed",
+    "chromium › apiTests\\01_restfullbooker_raw\\05_crud.spec.ts › Restfull booker crud Api › TC#2-@p0 create booking": "failed",
+    "chromium › apiTests\\01_restfullbooker_raw\\05_crud.spec.ts › Restfull booker crud Api › TC#3-@p0 update booking": "skipped"
+  }
+}

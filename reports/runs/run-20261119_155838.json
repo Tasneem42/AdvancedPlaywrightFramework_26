@@ -1,0 +1,8 @@
+{
+  "runId": "20261119_155838",
+  "tests": {
+    "chromium › apiTests\\03_restfullbooker_fixture_e2e\\booking-crud.spec.ts › @e2e @P0 Level 3 - Booking lifecycle (token from fixture) › create a booking": "passed",
+    "chromium › apiTests\\03_restfullbooker_fixture_e2e\\booking-crud.spec.ts › @e2e @P0 Level 3 - Booking lifecycle (token from fixture) › update the booking, then read it back": "passed",
+    "chromium › apiTests\\03_restfullbooker_fixture_e2e\\booking-crud.spec.ts › @e2e @P0 Level 3 - Booking lifecycle (token from fixture) › delete the booking and confirm it is gone": "passed"
+  }
+}

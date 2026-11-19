@@ -1,0 +1,46 @@
+2026-11-16 17:11:36[info]  Payload is set: {"firstname":"Jim","lastname":"Brown","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}
+2026-11-16 17:11:36[info]  Header is set: {"Accept":"application/json","Content-Type":"application/json"}
+2026-11-16 17:11:37[info]  Response is set: {"bookingid":374,"booking":{"firstname":"Jim","lastname":"Brown","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-16 17:11:37[info]  Created booking id: 374
+2026-11-16 17:21:24[info]  Payload is set: {"firstname":"Jim","lastname":"Brown","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}
+2026-11-16 17:21:24[info]  Header is set: {"Accept":"application/json","Content-Type":"application/json"}
+2026-11-16 17:21:25[info]  Response is set: {"bookingid":332,"booking":{"firstname":"Jim","lastname":"Brown","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-16 17:21:25[info]  Created booking id: 332
+2026-11-16 17:22:58[info]  Payload is set: {"firstname":"Jim","lastname":"Brown","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}
+2026-11-16 17:22:58[info]  Header is set: {"Accept":"application/json","Content-Type":"application/json"}
+2026-11-16 17:22:59[info]  Response is set: {"bookingid":1158,"booking":{"firstname":"Jim","lastname":"Brown","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-16 17:22:59[info]  Created booking id: 1158
+2026-11-17 12:35:26[info]  Created auth token for PUT booking flow
+2026-11-17 12:35:26[info]  Response is set: {"bookingid":2168,"booking":{"firstname":"Pramod","lastname":"Dutta","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-17 12:35:26[info]  Created booking id: 2168
+2026-11-17 12:37:17[info]  Created auth token for PUT booking flow
+2026-11-17 12:37:17[info]  Response is set: {"bookingid":3118,"booking":{"firstname":"Pramod","lastname":"Dutta","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-17 12:37:17[info]  Created booking id: 3118
+2026-11-17 12:37:40[info]  Created auth token for PUT booking flow
+2026-11-17 12:37:40[info]  Response is set: {"bookingid":3320,"booking":{"firstname":"Pramod","lastname":"Dutta","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-17 12:37:40[info]  Created booking id: 3320
+2026-11-17 12:37:40[info]  Updated booking id 3320: Pramod Dutta
+2026-11-17 12:41:26[info]  Created auth token for PUT booking flow
+2026-11-17 12:41:27[info]  Response is set: {"bookingid":242,"booking":{"firstname":"Pramod","lastname":"Dutta","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-17 12:41:27[info]  Created booking id: 242
+2026-11-17 12:41:27[info]  Updated booking id 242: Pramod Dutta
+2026-11-17 15:00:08[info]  Created auth token for PUT booking flow
+2026-11-17 15:00:08[info]  Created booking id 4878 for negative PUT
+2026-11-17 15:00:08[info]  Created booking id 4879 for negative PUT
+2026-11-17 15:00:08[info]  Response is set: {"bookingid":4880,"booking":{"firstname":"Pramod","lastname":"Dutta","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-17 15:00:08[info]  Created booking id: 4880
+2026-11-17 15:00:08[info]  PUT with invalid token returned 403
+2026-11-17 15:00:08[info]  Created booking id 4882 for negative PUT
+2026-11-17 15:00:08[info]  PUT on non-existent booking returned 405
+2026-11-17 15:00:08[info]  Updated booking id 4880: Pramod Dutta
+2026-11-17 15:00:09[info]  PUT without token returned 403
+2026-11-17 15:00:09[info]  Created booking id 4889 for negative PUT
+2026-11-17 15:00:09[info]  Created booking id 4891 for negative PUT
+2026-11-17 15:00:09[info]  PUT with partial payload returned 400
+2026-11-17 15:00:10[info]  Auth with wrong credentials: {"reason":"Bad credentials"}
+2026-11-17 22:14:04[info]  Created auth token 
+2026-11-17 22:14:05[info]  Response is set: {"bookingid":1602,"booking":{"firstname":"Pramod","lastname":"Dutta","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-17 22:18:20[info]  Created auth token 
+2026-11-17 22:18:21[info]  Response is set: {"bookingid":3825,"booking":{"firstname":"Pramod","lastname":"Dutta","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+2026-11-17 22:18:21[info]  Created booking id: 3825
+2026-11-17 22:18:21[info]  Updated booking id 3825: Pramod Dutta

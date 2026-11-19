@@ -1,0 +1,6 @@
+{
+  "runId": "20261119_195328",
+  "tests": {
+    "chromium › apiTests\\05_ajv_jsonschema_validator\\booker-crud.spec.ts › @e2e @P0 Level 3 - Booking lifecycle (BookingApi fixture) › create a booking": "passed"
+  }
+}
